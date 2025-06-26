@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/Desktop/source code",
-      "program": "c:/Users/HP/Desktop/source code/build/Debug/outDebug",
+      "cwd": "D:/MUKUL/random/source code",
+      "program": "D:/MUKUL/random/source code/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
